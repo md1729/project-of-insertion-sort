@@ -19,7 +19,7 @@ Soru 2 Cevabı Tüm elemanları kontrol ettiğimiz için (n.(n-1))/2 = n^2 big o
 
 Soru 3 Cevabı Best Case= aradığımız sayı dizinin basında ise O(n) Worst Case = aradığımız sayı sonda ise O(n^2) Avarage Case = best case worst case ortalaması O(n^2)
 
-Soru 4 Cevabı Dizi sıralanınca ->[2,6,16,18,22,27] 18 ortada olduğu için avarage case kısmına girer
+Soru 4 Cevabı Dizi sıralanınca ->[2,6,16,18,22,27] 18 ortada olduğu için "avarage case" dir.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
 
